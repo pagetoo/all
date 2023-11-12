@@ -1,0 +1,44 @@
+{
+	"code": 200,
+	"msg": "success",
+	"listbaseurl": "https://jkunzyapi.com/api.php/provide/art/?ac=list",
+	"detailbaseurl": "https://jkunzyapi.com/api.php/provide/art/?ac=detail",
+	"list": [{
+		"typeid": 20,
+		"name": "言情小说"
+	}, {
+		"typeid": 21,
+		"name": "玄幻小说"
+	}, {
+		"typeid": 22,
+		"name": "恐怖灵异"
+	}, {
+		"typeid": 23,
+		"name": "军事科技"
+	}, {
+		"typeid": 24,
+		"name": "现实爱情"
+	}, {
+		"typeid": 25,
+		"name": "历史展现"
+	}, {
+		"typeid": 26,
+		"name": "武侠仙幻"
+	}],
+	"categoryad": [
+		{
+			"id": 1,
+			"image": "https://gd-hbimg.huaban.com/0071b00d4724587a8050ee4df54e3f9d695bf75d3dacc2-6IUt5G_fw658webp",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 3,
+			"image": "https://gd-hbimg.huaban.com/5526bc2affa513a2a4eed9202726b066549161e49bee5-vywlfL_fw658webp",
+			"link": "https://www.bing.com"	
+		}
+	],
+	"bookdetailad": {
+		"image": "https://gd-hbimg.huaban.com/8a2e158e6642893fd04f61cbbceec26553a9baaf63af5d-XCAcJc_fw658webp",
+		"link": "https://www.bing.com"
+	}
+}

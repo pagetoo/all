@@ -1,0 +1,25 @@
+{
+	"code": 200,
+	"msg": "success",
+	"baseurl": "https://www.bominzy3.com/api.php/provide/vod/?ac=detail",
+	"list": {
+		"image": "https://gd-hbimg.huaban.com/33b7b9b8786b1d4df36f2fa692788672da505e654756d-dDD7sK_fw658webp",
+		"link": "https://www.bing.com"
+	},
+	"detailplay": {
+		"image": "https://gd-hbimg.huaban.com/b4d3752ec0ae18d32c8a395a9682ca871fffaab1398eb-xWgIGR_fw658webp",
+		"link": "https://www.bing.com"
+	},
+	"detailbottom1": {
+		"image": "https://gd-hbimg.huaban.com/799fc34d12f2e3e0e35983c0a0a379525892539443fb2-4w2CVs_fw658webp",
+		"link": "https://www.bing.com"
+	},
+	"detailbottom2": {
+		"image": "https://gd-hbimg.huaban.com/a9bc78ef248f0e14e8fc53d29ff1ae4fe3bea5dc6a91f-FXowVV_fw658webp",
+		"link": "https://www.bing.com"
+	},
+	"detailbottom3": {
+		"image": "https://gd-hbimg.huaban.com/bcdee733137e7bd3521a8730382ab5ecf62c71cc23143-4l4krF_fw658webp",
+		"link": "https://www.bing.com"
+	}
+}

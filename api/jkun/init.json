@@ -1,0 +1,10 @@
+{
+	"code": 200,
+	"msg": "success",
+	"baseurl": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=detail",
+	"list": null,
+	"detailplay": null,
+	"detailbottom1": null,
+	"detailbottom2": null,
+	"detailbottom3": null
+}
