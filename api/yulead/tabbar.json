@@ -1,0 +1,55 @@
+{
+	"code": 200,
+	"msg": "success",
+	"baseurl": "https://api.ylzy.me/api.php/provide/vod/?ac=detail",
+	"list": [
+		{
+			"typeid": 7,
+			"type": 0,
+			"name": "国产剧"
+		},
+		{
+			"typeid": 8,
+			"type": 0,
+			"name": "韩国剧"
+		},
+		{
+			"typeid": 14,
+			"type": 0,
+			"name": "动作片"
+		},
+		{
+			"typeid": 15,
+			"type": 0,
+			"name": "科幻片"
+		},
+		{
+			"typeid": 26,
+			"type": 1,
+			"name": "武侠片"
+		},
+		{
+			"typeid": 27,
+			"type": 0,
+			"name": "战争片"
+		}	
+	],
+	"categoryad": [
+		{
+			"id": 1,
+			"image": "https://gd-hbimg.huaban.com/b4ec0bfb289046855ae69b7eed1a9e393d4dbf432e2db-GeFrkU_fw658webp",
+			"minimage": "https://gd-hbimg.huaban.com/d224ca2e5a7cc0b08e933d63697d17de60741b5f3e2ac-DmzFlA_fw658webp",
+			"maximage": "https://gd-hbimg.huaban.com/179855fcf982a655e04a62cc0f88d5a64543a19339fc5-YXRCal_fw658webp",
+			"link": "https://www.bing.com",
+			"name": "You don't throw away a whole life just cause he's banged up a little"
+		},
+		{
+			"id": 3,
+			"image": "https://gd-hbimg.huaban.com/80408a4424eb9b5803acd639bec4646227508625b8e3-FB5AN9_fw658webp",
+			"minimage": "https://gd-hbimg.huaban.com/6b10fa6cd03b5afe52b2b44f822c9d2221a5e719339dc-5lBtGj_fw658webp",
+			"maximage": "https://gd-hbimg.huaban.com/e49d498c61e27500d4c67ec41aadaa46d105db223f565-HH2gC2_fw658webp",
+			"link": "https://www.bing.com",
+			"name": "The awakening of conscience is the greatness of soul then we can create more and more"
+		}
+	]
+}
