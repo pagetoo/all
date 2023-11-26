@@ -30,61 +30,61 @@
 		{
 			"id": 1,
 			"name": "Women",
-			"image": "https://tomall.netlify.app/image/gird1.jpg",
+			"image": "https://tomall.netlify.app/image/grid1.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 2,
 			"name": "Beach",
-			"image": "https://tomall.netlify.app/image/gird2.jpg",
+			"image": "https://tomall.netlify.app/image/grid2.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 3,
 			"name": "People",
-			"image": "https://tomall.netlify.app/image/gird3.jpg",
+			"image": "https://tomall.netlify.app/image/grid3.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 4,
 			"name": "Offices",
-			"image": "https://tomall.netlify.app/image/gird4.jpg",
+			"image": "https://tomall.netlify.app/image/grid4.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 5,
 			"name": "Victory",
-			"image": "https://tomall.netlify.app/image/gird5.jpg",
+			"image": "https://tomall.netlify.app/image/grid5.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 6,
 			"name": "Lovely",
-			"image": "https://tomall.netlify.app/image/gird6.jpg",
+			"image": "https://tomall.netlify.app/image/grid6.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 7,
 			"name": "Animals",
-			"image": "https://tomall.netlify.app/image/gird7.jpg",
+			"image": "https://tomall.netlify.app/image/grid7.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 8,
 			"name": "Rough",
-			"image": "https://tomall.netlify.app/image/gird8.jpg",
+			"image": "https://tomall.netlify.app/image/grid8.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 9,
 			"name": "Yellow",
-			"image": "https://tomall.netlify.app/image/gird9.jpg",
+			"image": "https://tomall.netlify.app/image/grid9.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 10,
 			"name": "Sunset",
-			"image": "https://tomall.netlify.app/image/gird10.jpg",
+			"image": "https://tomall.netlify.app/image/grid10.jpg",
 			"link": "https://www.bing.com"
 		}
 	],
