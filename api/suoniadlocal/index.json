@@ -1,0 +1,154 @@
+{
+	"code": 200,
+	"msg": "success",
+	"logo": "Hello",
+	"baseurl": "https://suoniapi.com/api.php/provide/vod/?ac=detail",
+	"matomo": "https://463z/matomo.php?idsite=3&rec=2",
+	"indexadcode": 0,
+	"marquee": {
+		"name": "The awakening of conscience is the greatness of soul then we can create more and more",
+		"link": "https://www.bing.com"
+	},
+	"swiper": [
+		{
+			"id": 1,
+			"image": "https://tomall.netlify.app/image/swiper1.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 2,
+			"image": "https://tomall.netlify.app/image/swiper2.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 3,
+			"image": "https://tomall.netlify.app/image/swiper3.jpg",
+			"link": "https://www.bing.com"
+		}
+	],
+	"grid": [
+		{
+			"id": 1,
+			"name": "Women",
+			"image": "https://tomall.netlify.app/image/gird1.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 2,
+			"name": "Beach",
+			"image": "https://tomall.netlify.app/image/gird2.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 3,
+			"name": "People",
+			"image": "https://tomall.netlify.app/image/gird3.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 4,
+			"name": "Offices",
+			"image": "https://tomall.netlify.app/image/gird4.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 5,
+			"name": "Victory",
+			"image": "https://tomall.netlify.app/image/gird5.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 6,
+			"name": "Lovely",
+			"image": "https://tomall.netlify.app/image/gird6.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 7,
+			"name": "Animals",
+			"image": "https://tomall.netlify.app/image/gird7.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 8,
+			"name": "Rough",
+			"image": "https://tomall.netlify.app/image/gird8.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 9,
+			"name": "Yellow",
+			"image": "https://tomall.netlify.app/image/gird9.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 10,
+			"name": "Sunset",
+			"image": "https://tomall.netlify.app/image/gird10.jpg",
+			"link": "https://www.bing.com"
+		}
+	],
+	"hot": [{
+		"typeid": 6,
+		"type": 1,
+		"page": 1,
+		"name": "国产动漫"
+	}, {
+		"typeid": 14,
+		"type": 0,
+		"page": 1,
+		"name": "日韩动漫"
+	}, {
+		"typeid": 29,
+		"type": 0,
+		"page": 1,
+		"name": "动漫电影"
+	}],
+	"indexad": [
+		{
+			"id": 1,
+			"list": [
+				{
+					"id": 6,
+					"image": "https://tomall.netlify.app/image/indexad3.jpg",
+					"link": "https://www.bing.com"
+				},
+				{
+					"id": 7,
+					"image": "https://tomall.netlify.app/image/indexad4.jpg",
+					"link": "https://www.bing.com"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"list": [
+				{
+					"id": 5,
+					"image": "https://tomall.netlify.app/image/indexad9.jpg",
+					"link": "https://www.bing.com"
+				},
+				{
+					"id": 5,
+					"image": "https://tomall.netlify.app/image/indexad10.jpg",
+					"link": "https://www.bing.com"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"list": [
+				{
+					"id": 5,
+					"image": "https://tomall.netlify.app/image/indexad6.jpg",
+					"link": "https://www.bing.com"
+				},
+				{
+					"id": 5,
+					"image": "https://tomall.netlify.app/image/indexad5.jpg",
+					"link": "https://www.bing.com"
+				}
+			]
+		}
+	]
+}
