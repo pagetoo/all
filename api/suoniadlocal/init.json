@@ -1,0 +1,25 @@
+{
+	"code": 200,
+	"msg": "success",
+	"baseurl": "https://suoniapi.com/api.php/provide/vod/?ac=detail",
+	"list": {
+		"image": "https://5700.top/image/init.jpg",
+		"link": "https://www.bing.com"
+	},
+	"detailplay": {
+		"image": "https://5700.top/image/player.jpg",
+		"link": "https://www.bing.com"
+	},
+	"detailbottom1": {
+		"image": "https://5700.top/image/bottom13.jpg",
+		"link": "https://www.bing.com"
+	},
+	"detailbottom2": {
+		"image": "https://5700.top/image/bottom2.jpg",
+		"link": "https://www.bing.com"
+	},
+	"detailbottom3": {
+		"image": "https://5700.top/image/bottom1.jpg",
+		"link": "https://www.bing.com"
+	}
+}
