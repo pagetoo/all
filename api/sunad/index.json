@@ -1,0 +1,157 @@
+{
+	"code": 200,
+	"msg": "success",
+	"logo": "Hello",
+	"baseurl": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=detail",
+	"matomo": "https://463z/matomo.php?idsite=3&rec=2",
+	"indexadcode": 0,
+	"marquee": {
+		"name": "Gameclips always brings you the best full game movies with a focus on the story cinematic aspect of the video games",
+		"link": "https://www.bing.com"
+	},
+	"swiper": [
+		{
+			"id": 1,
+			"image": "https://5700.top/image/swiper1.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 2,
+			"image": "https://5700.top/image/swiper2.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 3,
+			"image": "https://5700.top/image/swiper3.jpg",
+			"link": "https://www.bing.com"
+		}
+	],
+	"grid": [
+		{
+			"id": 1,
+			"name": "Women",
+			"image": "https://5700.top/image/grid1.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 2,
+			"name": "Beach",
+			"image": "https://5700.top/image/grid2.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 3,
+			"name": "People",
+			"image": "https://5700.top/image/grid14.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 4,
+			"name": "Offices",
+			"image": "https://5700.top/image/grid4.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 5,
+			"name": "Victory",
+			"image": "https://5700.top/image/grid5.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 6,
+			"name": "Lovely",
+			"image": "https://5700.top/image/grid6.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 7,
+			"name": "Animals",
+			"image": "https://5700.top/image/grid7.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 8,
+			"name": "Rough",
+			"image": "https://5700.top/image/grid11.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 9,
+			"name": "Yellow",
+			"image": "https://5700.top/image/grid9.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 10,
+			"name": "Sunset",
+			"image": "https://5700.top/image/grid10.jpg",
+			"link": "https://www.bing.com"
+		}
+	],
+	"hot": [{
+		"typeid": 27,
+		"postids":"12187,12194,12196,12211,12231,12232",
+		"type": 0,
+		"page": 1,
+		"name": "黑丝诱惑"
+	}, {
+		"typeid": 2,
+		"postids":"12051,12241,12065,12069,12099,12369",
+		"type": 0,
+		"page": 1,
+		"name": "中文字幕"
+	}, {
+		"typeid": 36,
+		"postids":"",
+		"type": 0,
+		"page": 1,
+		"name": "素人搭讪"
+	}],
+	"indexad": [
+		{
+			"id": 1,
+			"list": [
+				{
+					"id": 6,
+					"image": "https://5700.top/image/indexad1.jpg",
+					"link": "https://www.bing.com"
+				},
+				{
+					"id": 7,
+					"image": "https://5700.top/image/indexad3.jpg",
+					"link": "https://www.bing.com"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"list": [
+				{
+					"id": 5,
+					"image": "https://5700.top/image/indexad9.jpg",
+					"link": "https://www.bing.com"
+				},
+				{
+					"id": 5,
+					"image": "https://5700.top/image/indexad10.jpg",
+					"link": "https://www.bing.com"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"list": [
+				{
+					"id": 5,
+					"image": "https://5700.top/image/indexad5.jpg",
+					"link": "https://www.bing.com"
+				},
+				{
+					"id": 5,
+					"image": "https://5700.top/image/indexad6.jpg",
+					"link": "https://www.bing.com"
+				}
+			]
+		}
+	]
+}
