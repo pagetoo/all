@@ -3,23 +3,23 @@
 	"msg": "success",
 	"baseurl": "https://suoniapi.com/api.php/provide/vod/?ac=detail",
 	"list": {
-		"image1": "https://5700.top/image1/init.jpg",
+		"image": "https://5700.top/image1/init.jpg",
 		"link": "https://www.bing.com"
 	},
 	"detailplay": {
-		"image1": "https://5700.top/image1/player.png",
+		"image": "https://5700.top/image1/player.png",
 		"link": "https://www.bing.com"
 	},
 	"detailbottom1": {
-		"image1": "https://5700.top/image1/indexad1.png",
+		"image": "https://5700.top/image1/indexad1.png",
 		"link": "https://www.bing.com"
 	},
 	"detailbottom2": {
-		"image1": "https://5700.top/image1/indexad2.png",
+		"image": "https://5700.top/image1/indexad2.png",
 		"link": "https://www.bing.com"
 	},
 	"detailbottom3": {
-		"image1": "https://5700.top/image1/indexad3.png",
+		"image": "https://5700.top/image1/indexad3.png",
 		"link": "https://www.bing.com"
 	}
 }
