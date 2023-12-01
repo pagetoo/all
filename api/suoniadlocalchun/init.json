@@ -3,7 +3,7 @@
 	"msg": "success",
 	"baseurl": "https://suoniapi.com/api.php/provide/vod/?ac=detail",
 	"list": {
-		"image1": "https://5700.top/image/init.jpg",
+		"image1": "https://5700.top/image1/init.jpg",
 		"link": "https://www.bing.com"
 	},
 	"detailplay": {
