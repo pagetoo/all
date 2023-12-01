@@ -12,17 +12,17 @@
 	"swiper": [
 		{
 			"id": 1,
-			"image1": "https://5700.top/image1/swiper1.png",
+			"image": "https://5700.top/image1/swiper1.png",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 2,
-			"image1": "https://5700.top/image1/swiper2.png",
+			"image": "https://5700.top/image1/swiper2.png",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 3,
-			"image1": "https://5700.top/image1/swiper3.png",
+			"image": "https://5700.top/image1/swiper3.png",
 			"link": "https://www.bing.com"
 		}
 	],
@@ -30,61 +30,61 @@
 		{
 			"id": 1,
 			"name": "Women",
-			"image1": "https://5700.top/image1/53.jpg",
+			"image": "https://5700.top/image1/53.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 2,
 			"name": "Beach",
-			"image1": "https://5700.top/image1/54.jpg",
+			"image": "https://5700.top/image1/54.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 3,
 			"name": "People",
-			"image1": "https://5700.top/image1/55.jpg",
+			"image": "https://5700.top/image1/55.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 4,
 			"name": "Offices",
-			"image1": "https://5700.top/image1/56.jpg",
+			"image": "https://5700.top/image1/56.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 5,
 			"name": "Victory",
-			"image1": "https://5700.top/image1/57.jpg",
+			"image": "https://5700.top/image1/57.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 6,
 			"name": "Lovely",
-			"image1": "https://5700.top/image1/58.jpg",
+			"image": "https://5700.top/image1/58.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 7,
 			"name": "Animals",
-			"image1": "https://5700.top/image1/59.jpg",
+			"image": "https://5700.top/image1/59.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 8,
 			"name": "Rough",
-			"image1": "https://5700.top/image1/60.jpg",
+			"image": "https://5700.top/image1/60.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 9,
 			"name": "Yellow",
-			"image1": "https://5700.top/image1/61.jpg",
+			"image": "https://5700.top/image1/61.jpg",
 			"link": "https://www.bing.com"
 		},
 		{
 			"id": 10,
 			"name": "Sunset",
-			"image1": "https://5700.top/image1/62.jpg",
+			"image": "https://5700.top/image1/62.jpg",
 			"link": "https://www.bing.com"
 		}
 	],
@@ -110,12 +110,12 @@
 			"list": [
 				{
 					"id": 6,
-					"image1": "https://5700.top/image1/indexad1.png",
+					"image": "https://5700.top/image1/indexad1.png",
 					"link": "https://www.bing.com"
 				},
 				{
 					"id": 7,
-					"image1": "https://5700.top/image1/indexad3.png",
+					"image": "https://5700.top/image1/indexad3.png",
 					"link": "https://www.bing.com"
 				}
 			]
@@ -125,12 +125,12 @@
 			"list": [
 				{
 					"id": 5,
-					"image1": "https://5700.top/image1/indexad3.png",
+					"image": "https://5700.top/image1/indexad3.png",
 					"link": "https://www.bing.com"
 				},
 				{
 					"id": 5,
-					"image1": "https://5700.top/image1/indexad4.png",
+					"image": "https://5700.top/image1/indexad4.png",
 					"link": "https://www.bing.com"
 				}
 			]
@@ -140,12 +140,12 @@
 			"list": [
 				{
 					"id": 5,
-					"image1": "https://5700.top/image1/indexad5.png",
+					"image": "https://5700.top/image1/indexad5.png",
 					"link": "https://www.bing.com"
 				},
 				{
 					"id": 5,
-					"image1": "https://5700.top/image1/indexad6.png",
+					"image": "https://5700.top/image1/indexad6.png",
 					"link": "https://www.bing.com"
 				}
 			]
