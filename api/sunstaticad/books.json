@@ -1,0 +1,44 @@
+{
+	"code": 200,
+	"msg": "success",
+	"listbaseurl": "https://5700.top/api.php/provide/art/?ac=list",
+	"detailbaseurl": "https://5700.top/api.php/provide/art/?ac=detail",
+	"list": [{
+		"typeid": 26,
+		"name": "生活都市"
+	}, {
+		"typeid": 27,
+		"name": "不伦恋情"
+	}, {
+		"typeid": 28,
+		"name": "学生校园"
+	}, {
+		"typeid": 29,
+		"name": "人妻熟女"
+	}, {
+		"typeid": 30,
+		"name": "暴力虐待"
+	}, {
+		"typeid": 31,
+		"name": "明星偶像"
+	}, {
+		"typeid": 32,
+		"name": "玄幻仙侠"
+	}],
+	"categoryad": [
+		{
+			"id": 1,
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/sad-woman-sitting-in-office-overwhelmed-with-to-do-tasks-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.baidu.com"
+		},
+		{
+			"id": 3,
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-with-flamingos-on-white-sand-beach-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.baidu.com"	
+		}
+	],
+	"bookdetailad": {
+		"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/painting-of-first-people-colonizing-other-planets-free-photo.jpg?w=600&quality=80",
+		"link": "https://www.baidu.com"
+	}
+}
