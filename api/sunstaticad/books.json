@@ -4,11 +4,8 @@
 	"listbaseurl": "https://5700.top/api.php/provide/art/?ac=list",
 	"detailbaseurl": "https://5700.top/api.php/provide/art/?ac=detail",
 	"list": [{
-		"typeid": 26,
-		"name": "生活都市"
-	}, {
 		"typeid": 27,
-		"name": "不伦恋情"
+		"name": "生活都市"
 	}, {
 		"typeid": 28,
 		"name": "学生校园"
