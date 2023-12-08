@@ -1,0 +1,31 @@
+{
+	"code": 200,
+	"msg": "success",
+	"logo": "Hello",
+	"baseurl": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=detail",
+	"matomo": "https://463z/matomo.php?idsite=3&rec=2",
+	"indexadcode": 0,
+	"marquee": {
+		"name": "",
+		"link": ""
+	},
+	"swiper": [],
+	"grid": [],
+	"hot": [{
+		"typeid": 27,
+		"type": 0,
+		"page": 1,
+		"name": "黑丝诱惑"
+	}, {
+		"typeid": 2,
+		"type": 0,
+		"page": 1,
+		"name": "中文字幕"
+	}, {
+		"typeid": 36,
+		"type": 0,
+		"page": 1,
+		"name": "素人搭讪"
+	}],
+	"indexad": []
+}
