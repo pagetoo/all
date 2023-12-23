@@ -1,0 +1,55 @@
+{
+	"code": 200,
+	"msg": "success",
+	"baseurl": "https://www.5700.top/api.php/provide/vod/?ac=detail",
+	"list": [
+		{
+			"typeid": 20,
+			"type": 0,
+			"name": "国产剧"
+		},
+		{
+			"typeid": 21,
+			"type": 0,
+			"name": "韩国剧"
+		},
+		{
+			"typeid": 1,
+			"type": 0,
+			"name": "动作片"
+		},
+		{
+			"typeid": 2,
+			"type": 0,
+			"name": "科幻片"
+		},
+		{
+			"typeid": 29,
+			"type": 0,
+			"name": "战争片"
+		},
+		{
+			"typeid": 31,
+			"type": 1,
+			"name": "武侠片"
+		}	
+	],
+	"categoryad": [
+		{
+			"id": 1,
+			"image": "https://5700.top/static/image/categoryad1.jpg",
+			"minimage": "https://5700.top/static/image/categoryad2.jpg",
+			"maximage": "https://5700.top/static/image/categoryad3.jpg",
+			"link": "https://www.baidu.com",
+			"name": "You can slowly see connor gain emotions, to the way he converses"
+		},
+		{
+			"id": 3,
+			"image": "https://5700.top/static/image/categoryad4.jpg",
+			"minimage": "https://5700.top/static/image/categoryad5.jpg",
+			"maximage": "https://5700.top/static/image/categoryad6.jpg",
+			"link": "https://www.baidu.com",
+			"name": "His coin is the clue here: in the very first scene even before we see his face properly"
+		}
+	]
+}
