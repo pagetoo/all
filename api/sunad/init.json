@@ -1,0 +1,25 @@
+{
+	"code": 200,
+	"msg": "success",
+	"baseurl": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=detail",
+	"list": {
+		"image": "https://5700.top/image/init3.jpg",
+		"link": "https://www.bing.com"
+	},
+	"detailplay": {
+		"image": "https://5700.top/image/player.jpg",
+		"link": "https://www.bing.com"
+	},
+	"detailbottom1": {
+		"image": "https://5700.top/image/indexad22.jpg",
+		"link": "https://www.bing.com"
+	},
+	"detailbottom2": {
+		"image": "https://5700.top/image/indexad23.jpg",
+		"link": "https://www.bing.com"
+	},
+	"detailbottom3": {
+		"image": "https://5700.top/image/bottom1.jpg",
+		"link": "https://www.bing.com"
+	}
+}
