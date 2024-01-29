@@ -1,0 +1,25 @@
+{
+	"code": 200,
+	"msg": "success",
+	"baseurl": "https://www.5700.top/api.php/provide/vod/?ac=detail",
+	"list": {
+		"image": "https://5700.top/static/image/init3.jpg",
+		"link": "https://www.baidu.com"
+	},
+	"detailplay": {
+		"image": "https://5700.top/static/image/player.jpg",
+		"link": "https://www.baidu.com"
+	},
+	"detailbottom1": {
+		"image": "https://5700.top/static/image/indexad22.jpg",
+		"link": "https://www.baidu.com"
+	},
+	"detailbottom2": {
+		"image": "https://5700.top/static/image/indexad15.jpg",
+		"link": "https://www.baidu.com"
+	},
+	"detailbottom3": {
+		"image": "https://5700.top/static/image/bottom1.jpg",
+		"link": "https://www.baidu.com"
+	}
+}
