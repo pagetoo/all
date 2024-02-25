@@ -1,0 +1,50 @@
+{
+	"code": 200,
+	"msg": "success",
+	"baseurl": "https://www.7750.top/api.php/provide/vod/?ac=detail",
+	"list": [
+		{
+			"typeid": 20,
+			"type": 0,
+			"name": "国产动漫"
+		},
+		{
+			"typeid": 21,
+			"type": 0,
+			"name": "日韩动漫"
+		},
+		{
+			"typeid": 22,
+			"type": 0,
+			"name": "欧美动漫"
+		},
+		{
+			"typeid": 23,
+			"type": 0,
+			"name": "港台动漫"
+		},
+		{
+			"typeid": 24,
+			"type": 1,
+			"name": "动漫电影"
+		}
+	],
+	"categoryad": [
+		{
+			"id": 1,
+			"image": "https://7750.top/static/image/categoryad1.jpg",
+			"minimage": "https://7750.top/static/image/categoryad2.jpg",
+			"maximage": "https://7750.top/static/image/categoryad3.jpg",
+			"link": "https://www.baidu.com",
+			"name": "You can slowly see connor gain emotions, to the way he converses"
+		},
+		{
+			"id": 3,
+			"image": "https://7750.top/static/image/categoryad4.jpg",
+			"minimage": "https://7750.top/static/image/categoryad5.jpg",
+			"maximage": "https://7750.top/static/image/categoryad6.jpg",
+			"link": "https://www.baidu.com",
+			"name": "His coin is the clue here: in the very first scene even before we see his face properly"
+		}
+	]
+}
