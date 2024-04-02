@@ -1,0 +1,30 @@
+{
+	"code": 200,
+	"msg": "success",
+	"logo": "Hello",
+	"matomo": "https://463z/matomo.php?idsite=3&rec=2",
+	"indexadcode": 0,
+	"marquee": null,
+	"swiper": [],
+	"grid": [],
+	"hot": [{
+		"typeid": 51,
+		"postids":"",
+		"type": 0,
+		"page": 1,
+		"name": "动漫电影"
+	}, {
+		"typeid": 23,
+		"postids":"",
+		"type": 0,
+		"page": 1,
+		"name": "国产动漫"
+	}, {
+		"typeid": 32,
+		"postids":"121221,120917,120056,119907",
+		"type": 0,
+		"page": 1,
+		"name": "日韩动漫"
+	}],
+	"indexad": []
+}
