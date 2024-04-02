@@ -1,0 +1,33 @@
+{
+	"code": 200,
+	"msg": "success",
+	"logo": "Hello",
+	"matomo": "https://463z/matomo.php?idsite=3&rec=2",
+	"indexadcode": 0,
+	"marquee": {
+		"name": "Wowrack is a premier colocation facility in Seattle, Washington. Located within Sabey's Intergate",
+		"link": "https://www.baidu.com"
+	},
+	"swiper": [],
+	"grid": [],
+	"hot": [{
+		"typeid": 11,
+		"postids":"",
+		"type": 0,
+		"page": 1,
+		"name": "动漫电影"
+	}, {
+		"typeid": 12,
+		"postids":"",
+		"type": 0,
+		"page": 1,
+		"name": "国产动漫"
+	}, {
+		"typeid": 32,
+		"postids":"62347,62338,62331,27290,20888,34709",
+		"type": 0,
+		"page": 1,
+		"name": "日韩动漫"
+	}],
+	"indexad": []
+}
