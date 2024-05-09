@@ -78,6 +78,16 @@
 			"id": 4,
 			"name": "综艺",
 			"tabbar": []
+		},
+		{
+			"id": 5,
+			"name": "新闻",
+			"tabbar": []
+		},
+		{
+			"id": 6,
+			"name": "娱乐",
+			"tabbar": []
 		}
 	],
 	"categoryad": [
