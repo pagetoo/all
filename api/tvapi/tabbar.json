@@ -73,6 +73,11 @@
 				"type": 0,
 				"name": "传媒"
 			}]
+		},
+		{
+			"id": 4,
+			"name": "综艺",
+			"tabbar": []
 		}
 	],
 	"categoryad": [
