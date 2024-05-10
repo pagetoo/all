@@ -1,0 +1,6 @@
+{
+	"code": 200,
+	"msg": "success",
+	"baseurl": "https://www.siwazyw.tv/api.php/provide/vod/at/json/?ac=detail",
+	"bookonoff": 0
+}
