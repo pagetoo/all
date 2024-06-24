@@ -28,8 +28,18 @@
 			"link": "https://www.bing.com"
 		},
 		{
-			"id": 3,
+			"id": 2,
 			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-with-flamingos-on-white-sand-beach-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"	
+		},
+		{
+			"id": 3,
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/church-of-the-mother-of-god-in-front-of-tyn-on-old-town-square-in-prague-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"	
+		},
+		{
+			"id": 4,
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/secretary-portrait-free-photo.jpg?w=600&quality=80",
 			"link": "https://www.bing.com"	
 		}]
 }
