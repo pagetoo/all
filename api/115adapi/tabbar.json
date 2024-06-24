@@ -43,10 +43,34 @@
 			"name": "tracking method known as Canvas Fingerprinting uses HTML5 Canvas identifier"
 		},
 		{
-			"id": 3,
+			"id": 2,
 			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-in-coat-holding-her-white-smartphone-in-hands-during-sunny-fall-free-photo.jpg?w=2210&quality=70",
 			"minimage": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-holding-a-pink-shaving-razor-in-her-hand-free-photo.jpg?w=2210&quality=70",
 			"maximage": "https://i0.wp.com/picjumbo.com/wp-content/uploads/dating-love-scrabble-letters-free-photo.jpg?w=2210&quality=70",
+			"link": "https://www.bing.com",
+			"name": "Font fingerprinting is a technique used to track online activity by analyzing"
+		},
+		{
+			"id": 3,
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-in-coat-holding-her-white-smartphone-in-hands-during-sunny-fall-free-photo.jpg?w=600&quality=80",
+			"minimage": "https://i0.wp.com/picjumbo.com/wp-content/uploads/camera-lens-on-a-red-background.jpg?w=600&quality=80",
+			"maximage": "https://i0.wp.com/picjumbo.com/wp-content/uploads/freelance-woman-entrepreneur-calling-in-home-office-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com",
+			"name": "Font fingerprinting is a technique used to track online activity by analyzing"
+		},
+		{
+			"id": 4,
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/vintage-red-brick-fence-texture-free-photo.jpg?w=600&quality=80",
+			"minimage": "https://i0.wp.com/picjumbo.com/wp-content/uploads/church-of-the-mother-of-god-in-front-of-tyn-on-old-town-square-in-prague-free-photo.jpg?w=600&quality=80",
+			"maximage": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-with-sun-glasses-in-flower-field-summer-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com",
+			"name": "Font fingerprinting is a technique used to track online activity by analyzing"
+		},
+		{
+			"id": 5,
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-beach-in-seychelles-free-photo.jpeg?w=600&quality=80",
+			"minimage": "https://i0.wp.com/picjumbo.com/wp-content/uploads/violet-colorful-sunset-sky-on-the-beach-free-photo.jpeg?w=600&quality=80",
+			"maximage": "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-spring-summer-day-in-green-nature-mountains-free-photo.jpg?w=600&quality=80",
 			"link": "https://www.bing.com",
 			"name": "Font fingerprinting is a technique used to track online activity by analyzing"
 		}
