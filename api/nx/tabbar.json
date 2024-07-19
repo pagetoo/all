@@ -1,0 +1,32 @@
+{
+	"code": 200,
+	"msg": "success",
+	"list": [
+		{
+			"typeid": 20,
+			"type": 0,
+			"name": "国产剧"
+		},
+		{
+			"typeid": 21,
+			"type": 0,
+			"name": "韩国剧"
+		},
+		{
+			"typeid": 27,
+			"type": 0,
+			"name": "动作片"
+		},
+		{
+			"typeid": 29,
+			"type": 0,
+			"name": "科幻片"
+		},
+		{
+			"typeid": 35,
+			"type": 0,
+			"name": "自拍"
+		}	
+	],
+	"categoryad": []
+}

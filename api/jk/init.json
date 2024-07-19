@@ -1,0 +1,6 @@
+{
+	"code": 200,
+	"msg": "success",
+	"baseurl": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=detail",
+	"bookonoff": 0
+}
