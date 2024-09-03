@@ -74,6 +74,63 @@
 			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/buddha-wallpaper-free-photo.jpg?w=600&quality=80",
 			"link": "https://www.bing.com"
 		}
+	],"indexadrow": [
+		{
+			"id": 1,
+			"name": "Women",
+			"title":"指令用于条件性地渲染一块内容。这块内容只会在指令的表达式返回真值时才被渲染",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/manga-girl-comics-woman-warrior-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 2,
+			"name": "Beach",
+			"title": "使我们可以在每个组件内封装自定义内容与逻辑",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-with-flamingos-on-white-sand-beach-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 3,
+			"name": "People",
+			"title": "这允许我们向方法传入自定义参数以代替原生事件",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/painting-of-first-people-colonizing-other-planets-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 4,
+			"name": "Offices",
+			"title": "你也可以看看为事件处理器标注类型这一章了解更多",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/sad-woman-sitting-in-office-overwhelmed-with-to-do-tasks-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 5,
+			"name": "Victory",
+			"title": "内联代码方式变得不够灵活。因此 v-on 也可以接受一个方法名或对某个方法的调用",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/man-celebrating-victory-with-ukraine-flag-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 6,
+			"name": "Lovely",
+			"title": "有关所有生命周期钩子及其各自用例的详细信息，请参考生命周期钩子 API 索引",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/couple-in-love-walking-in-paris-to-eiffel-tower-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 7,
+			"name": "Animals",
+			"title": "下面是实例生命周期的图表。你现在并不需要完全理解图中的所有内容，但以后它将是一个有用的参考",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/super-cute-tiny-spider-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 8,
+			"name": "Rough",
+			"title": "会在实例生命周期的不同阶段被调用，最常用的是 onMounted、onUpdated 和 onUnmounted",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/buddha-wallpaper-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		}
 	],
 	"hot": [{
 		"typeid": 6,
