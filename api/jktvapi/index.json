@@ -1,0 +1,156 @@
+{
+	"code": 200,
+	"msg": "success",
+	"logo": "Hello",
+	"matomo": "https://463z/matomo.php?idsite=3&rec=2",
+	"indexadcode": 0,
+	"marquee": {
+		"name": "Wowrack is a premier colocation facility in Seattle, Washington. Located within Sabey's Intergate",
+		"link": "https://www.baidu.com"
+	},
+	"swiper": [
+		{
+			"id": 1,
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/golden-gate-bridge-free-photo.jpg?w=2210&quality=70",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 2,
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/manarola-most-beautiful-village-in-italy-free-photo.jpg?w=2210&quality=70",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 3,
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-enjoying-the-sunset-by-the-sea-free-photo.jpg?w=2210&quality=70",
+			"link": "https://www.bing.com"
+		}
+	],
+	"grid": [
+		{
+			"id": 1,
+			"name": "Women",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/manga-girl-comics-woman-warrior-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 2,
+			"name": "Beach",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-with-flamingos-on-white-sand-beach-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 3,
+			"name": "People",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/painting-of-first-people-colonizing-other-planets-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 4,
+			"name": "Offices",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/sad-woman-sitting-in-office-overwhelmed-with-to-do-tasks-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 5,
+			"name": "Victory",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/man-celebrating-victory-with-ukraine-flag-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 6,
+			"name": "Lovely",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/couple-in-love-walking-in-paris-to-eiffel-tower-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 7,
+			"name": "Animals",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/super-cute-tiny-spider-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 8,
+			"name": "Rough",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/buddha-wallpaper-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 9,
+			"name": "Yellow",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-with-sun-glasses-in-flower-field-summer-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 10,
+			"name": "Sunset",
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/manga-woman-with-cute-puppy-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com"
+		}
+	],
+	"hot": [{
+		"typeid": 27,
+		"postids":"",
+		"type": 0,
+		"page": 1,
+		"name": "动漫电影"
+	}, {
+		"typeid": 2,
+		"postids":"",
+		"type": 1,
+		"page": 1,
+		"name": "国产动漫"
+	}, {
+		"typeid": 32,
+		"postids":"41822,41820,41809,41808,41746,41736",
+		"type": 0,
+		"page": 1,
+		"name": "日韩动漫"
+	}],
+	"indexad": [
+		{
+			"id": 1,
+			"list": [
+				{
+					"id": 6,
+					"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/titmouse-in-nature-free-photo.jpg?w=2210&quality=70",
+					"link": "https://www.bing.com"
+				},
+				{
+					"id": 7,
+					"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-swimming-in-a-luxury-santorini-hotel-infinity-pool-free-photo.jpg?w=2210&quality=70",
+					"link": "https://www.bing.com"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"list": [
+				{
+					"id": 5,
+					"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/icelandic-glaciers-free-photo.jpg?w=600&quality=80",
+					"link": "https://www.bing.com"
+				},
+				{
+					"id": 5,
+					"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/young-woman-solo-traveler-exploring-streets-of-an-old-croatian-town-free-photo.jpg?w=600&quality=80",
+					"link": "https://www.bing.com"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"list": [
+				{
+					"id": 5,
+					"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/love-scrabble-letters-valentines-day-free-photo.jpg?w=600&quality=80",
+					"link": "https://www.bing.com"
+				},
+				{
+					"id": 5,
+					"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/blonde-woman-standing-in-front-of-lednice-castle-in-south-moravia-free-photo.jpg?w=600&quality=80",
+					"link": "https://www.bing.com"
+				}
+			]
+		}
+	]
+}
