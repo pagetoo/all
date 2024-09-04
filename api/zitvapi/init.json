@@ -1,7 +1,7 @@
 {
 	"code": 200,
 	"msg": "success",
-	"baseurl": "https://7750.top/api.php/provide/vod/?ac=detail",
+	"baseurl": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=detail",
 	"bookonoff": 1,
 	"list": {
 		"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-working-in-the-office-free-photo.jpg?w=2210&quality=70",
