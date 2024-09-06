@@ -1,0 +1,54 @@
+{
+	"code": 200,
+	"msg": "success",
+	"list": [
+		{
+			"typeid": 37,
+			"type": 0,
+			"name": "国产剧"
+		},
+		{
+			"typeid": 39,
+			"type": 0,
+			"name": "韩国剧"
+		},
+		{
+			"typeid": 40,
+			"type": 0,
+			"name": "动作片"
+		},
+		{
+			"typeid": 2,
+			"type": 0,
+			"name": "科幻片"
+		},
+		{
+			"typeid": 10,
+			"type": 0,
+			"name": "自拍"
+		},
+		{
+			"typeid": 9,
+			"type": 1,
+			"name": "主播"
+		}	
+	],
+	"categoryad": [
+			{
+			"id": 1,
+			"image": "https://10wallpaper.com/wallpaper/1024x768/2407/Dilraba_China_Fashion_Actress_Star_Photo_5K_1024x768.jpg",
+			"minimage": "https://10wallpaper.com/wallpaper/1024x768/1508/Lee_Da_Hae_Korea_beauty_star_photo_wallpaper_15_1024x768.jpg",
+			"maximage": "https://i0.wp.com/picjumbo.com/wp-content/uploads/tree-with-brown-fall-leaves-against-blue-sky-free-photo.jpg?w=600&quality=80",
+			"link": "https://www.bing.com",
+			"name": "tracking method known as Canvas Fingerprinting uses HTML5 Canvas identifier"
+		},
+		{
+			"id": 3,
+			"image": "https://10wallpaper.com/wallpaper/1024x768/2407/Anno_117_Pax_Romana_2024_Mobile_Game_5K_1024x768.jpg",
+			"minimage": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-holding-a-pink-shaving-razor-in-her-hand-free-photo.jpg?w=2210&quality=70",
+			"maximage": "https://10wallpaper.com/wallpaper/1024x768/1203/Angry_Bird_HD_Game_Wallpaper_02_1024x768.jpg",
+			"link": "https://www.bing.com",
+			"name": "Font fingerprinting is a technique used to track online activity by analyzing"
+		}
+	]
+}
