@@ -21,5 +21,22 @@
 	"detailbottom3": {
 		"image": "https://10wallpaper.com/wallpaper/1024x768/2409/Wilderness_Plateau_Red_Rock_Atacama_Chile_5K_1024x768.jpg",
 		"link": "https://www.baidu.com"
-	}
+	},
+	"detailbottom": [
+		{
+			"id": 1,
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/golden-gate-bridge-free-photo.jpg?w=2210&quality=70",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 2,
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/manarola-most-beautiful-village-in-italy-free-photo.jpg?w=2210&quality=70",
+			"link": "https://www.bing.com"
+		},
+		{
+			"id": 3,
+			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-enjoying-the-sunset-by-the-sea-free-photo.jpg?w=2210&quality=70",
+			"link": "https://www.bing.com"
+		}
+	]
 }
