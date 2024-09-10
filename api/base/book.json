@@ -22,24 +22,5 @@
 		"typeid": 22,
 		"name": "玄幻仙侠"
 	}],
-	"categoryad": [{
-			"id": 1,
-			"image": "https://10wallpaper.com/wallpaper/1024x768/2407/Golden_light_Lake_Bank_Rock_Morning_Summer_5K_1024x768.jpg",
-			"link": "https://www.bing.com"
-		},
-		{
-			"id": 2,
-			"image": "https://10wallpaper.com/wallpaper/1024x768/2407/Peak_Sunset_Sunlight_Torres_del_Paine_Chile_5K_1024x768.jpg",
-			"link": "https://www.bing.com"	
-		},
-		{
-			"id": 3,
-			"image": "https://10wallpaper.com/wallpaper/1024x768/2407/Call_of_Duty_Game_Season_9_Zombies_are_Back_5K_1024x768.jpg",
-			"link": "https://www.bing.com"	
-		},
-		{
-			"id": 4,
-			"image": "https://10wallpaper.com/wallpaper/1024x768/1203/Trine_2_Game_HD_Wallpaper_05_1024x768.jpg",
-			"link": "https://www.bing.com"	
-		}]
+	"categoryad": []
 }
