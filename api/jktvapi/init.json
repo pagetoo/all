@@ -3,7 +3,7 @@
 	"msg": "success",
 	"baseurl": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=detail",
 	"bookonoff": 1,
-	"list": {
+	"init": {
 		"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-working-in-the-office-free-photo.jpg?w=2210&quality=70",
 		"link": "https://www.baidu.com"
 	},
