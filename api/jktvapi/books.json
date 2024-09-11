@@ -22,8 +22,7 @@
 		"typeid": 22,
 		"name": "玄幻仙侠"
 	}],
-	"categoryad": [
-		{
+	"categoryad": [{
 			"id": 1,
 			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/sad-woman-sitting-in-office-overwhelmed-with-to-do-tasks-free-photo.jpg?w=600&quality=80",
 			"link": "https://www.bing.com"
@@ -32,10 +31,6 @@
 			"id": 3,
 			"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-with-flamingos-on-white-sand-beach-free-photo.jpg?w=600&quality=80",
 			"link": "https://www.bing.com"	
-		}
-	],
-	"bookdetailad": {
-		"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/painting-of-first-people-colonizing-other-planets-free-photo.jpg?w=600&quality=80",
-		"link": "https://www.bing.com"
-	}
+		}]
 }
+
