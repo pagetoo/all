@@ -1,8 +1,8 @@
 {
 	"code": 200,
 	"msg": "success",
-	"listbaseurl": "https://slapibf.com/api.php/provide/art/?ac=list",
-	"detailbaseurl": "https://slapibf.com/api.php/provide/art/?ac=detail",
+	"listbaseurl": "https://beiyong.slapibf.com/api.php/provide/art/?ac=list",
+	"detailbaseurl": "https://beiyong.slapibf.com/api.php/provide/art/?ac=detail",
 	"list": [{
 		"typeid": 65,
 		"name": "古典武侠"
