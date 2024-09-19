@@ -1,16 +1,16 @@
 {
 	"code": 200,
 	"msg": "success",
-	"listbaseurl": "https://jkunzyapi.com/api.php/provide/art/?ac=list",
-	"detailbaseurl": "https://jkunzyapi.com/api.php/provide/art/?ac=detail",
+	"listbaseurl": "https://slapibf.com/api.php/provide/art/?ac=list",
+	"detailbaseurl": "https://slapibf.com/api.php/provide/art/?ac=detail",
 	"list": [{
-		"typeid": 23,
+		"typeid": 65,
 		"name": "古典武侠"
 	}, {
-		"typeid": 24,
+		"typeid": 66,
 		"name": "都市言情"
 	}, {
-		"typeid": 25,
+		"typeid": 37,
 		"name": "青春校园"
 	}],
 	"categoryad": [{
