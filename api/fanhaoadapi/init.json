@@ -4,8 +4,28 @@
 	"baseurl": "http://fhapi9.com/api.php/provide/vod/at/json/?ac=detail",
 	"bookonoff": 0,
 	"tel": "",
-    "email": "",
+    	"email": "",
 	"init": null,
-	"detailplay": null,
-	"detailbottom": []
+	"detailplay": {
+		"image": "https://gd-hbimg.huaban.com/b4d3752ec0ae18d32c8a395a9682ca871fffaab1398eb-xWgIGR_fw658webp",
+		"link": "https://www.bing.com"
+	},
+	"detailbottom": [
+		{
+			"image": "https://gd-hbimg.huaban.com/799fc34d12f2e3e0e35983c0a0a379525892539443fb2-4w2CVs_fw658webp",
+			"link": "https://www.bing.com"
+		},{
+			"image": "https://gd-hbimg.huaban.com/a9bc78ef248f0e14e8fc53d29ff1ae4fe3bea5dc6a91f-FXowVV_fw658webp",
+			"link": "https://www.bing.com"
+		},{
+			"image": "https://gd-hbimg.huaban.com/bcdee733137e7bd3521a8730382ab5ecf62c71cc23143-4l4krF_fw658webp",
+			"link": "https://www.bing.com"
+		},{
+			"image": "https://gd-hbimg.huaban.com/3fcefc278439e96ed4fc34e8801227ce800cf8dd11d22-83dnVr_fw658webp",
+			"link": "https://www.bing.com"
+		},{
+			"image": "https://gd-hbimg.huaban.com/12090b69ab7cba20a2642ecee32674847a7c051d21e99-4uIpyZ_fw658webp",
+			"link": "https://www.bing.com"
+		}
+	]
 }
