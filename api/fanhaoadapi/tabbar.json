@@ -3,32 +3,32 @@
 	"msg": "success",
 	"list": [
 		{
-			"typeid": 1,
+			"typeid": 22,
 			"type": 0,
 			"name": "国产剧"
 		},
 		{
-			"typeid": 2,
+			"typeid": 23,
 			"type": 0,
 			"name": "韩国剧"
 		},
 		{
-			"typeid": 3,
+			"typeid": 24,
 			"type": 0,
 			"name": "动作片"
 		},
 		{
-			"typeid": 4,
+			"typeid": 25,
 			"type": 0,
 			"name": "科幻片"
 		},
 		{
-			"typeid": 5,
+			"typeid": 26,
 			"type": 0,
 			"name": "自拍"
 		},
 		{
-			"typeid": 6,
+			"typeid": 27,
 			"type": 1,
 			"name": "主播"
 		}	
