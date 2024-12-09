@@ -8,12 +8,7 @@
 		"name": "播放速度播放速度播放速度播放速度播放速度播放速度",
 		"link": "https://www.baidu.com"
 	},
-	"session": {
-		"name": "Wowrack is a premier colocation facility in Seattle, Washington. Located within Sabey's Intergate",
-		"code": "",
-		"codename": "",
-		"image": ""
-	},
+	"session": null,
 	"swiper": [],
 	"grid": [],
 	"indexadrow": [],
