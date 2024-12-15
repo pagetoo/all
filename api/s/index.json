@@ -1,0 +1,23 @@
+{
+	"code": 200,
+	"msg": "success",
+	"logo": "Hello",
+	"matomo": "",
+	"indexadcode": 0,
+	"marquee": {
+		"name": "111",
+		"link": "https://www.baidu.com"
+	},
+	"session": {
+		"name": "采集",
+		"code": "d11d",
+		"codename": "复制",
+		"image": "",
+		"imagename": "复制",
+	},
+	"swiper": [],
+	"grid": [],
+	"indexadrow": [],
+	"hot": [],
+	"indexad": []
+}

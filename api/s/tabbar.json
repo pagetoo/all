@@ -1,0 +1,37 @@
+{
+	"code": 200,
+	"msg": "success",
+	"list": [
+		{
+			"typeid": 1,
+			"type": 0,
+			"name": "亚洲无码"
+		},
+		{
+			"typeid": 2,
+			"type": 0,
+			"name": "亚洲有码"
+		},
+		{
+			"typeid": 3,
+			"type": 0,
+			"name": "欧美情色"
+		},
+		{
+			"typeid": 5,
+			"type": 0,
+			"name": "动漫卡通"
+		},
+		{
+			"typeid": 6,
+			"type": 0,
+			"name": "国产自拍"
+		},
+		{
+			"typeid": 7,
+			"type": 0,
+			"name": "美女主播"
+		}
+	],
+	"categoryad": []
+}
