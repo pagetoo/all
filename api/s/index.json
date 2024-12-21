@@ -11,9 +11,9 @@
 	"session": {
 		"name": "采集",
 		"code": "d11d",
-		"codename": "复制",
-		"image": "",
-		"imagename": "复制"
+		"codename": "复制code",
+		"image": "https://gd-hbimg.huaban.com/2815eace24bd53641b23799570e6a802212adde8868f0-of9a35_fw658webp",
+		"imagename": "复制name"
 	},
 	"swiper": [
 		{
