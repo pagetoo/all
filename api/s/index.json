@@ -124,17 +124,20 @@
 			"typeid": 1,
 			"type": 0,
 			"page": 1,
-			"name": "黑丝诱惑"
+			"name": "黑丝诱惑",
+			"postids":''
 		}, {
 			"typeid": 6,
-			"type": 0,
-			"page": 1,
-			"name": "中文字幕"
-		}, {
-			"typeid": 9,
 			"type": 1,
 			"page": 1,
-			"name": "素人搭讪"
+			"name": "中文字幕",
+			"postids":''
+		}, {
+			"typeid": 9,
+			"type": 0,
+			"page": 1,
+			"name": "素人搭讪",
+			"postids":'131978,131964,131983,131777,131610,131580'
 		}
 	],
 	"indexad": [
