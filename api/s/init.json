@@ -1,0 +1,30 @@
+{
+	"code": 200,
+	"msg": "success",
+	"baseurl": "http://fhapi9.com/api.php/provide/vod/at/json/?ac=detail",
+	"bookonoff": 1,
+	"tel": "",
+        "email": "",
+	"init": {
+		"image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/woman-working-in-the-office-free-photo.jpg?w=2210&quality=70",
+		"link": "https://www.bing.com"
+	},
+	"detailplay": {
+		"image": "https://10wallpaper.com/wallpaper/1366x768/2412/Early_Winter_Bryce_Canyon_National_Park_Utah_USA_5K_1366x768.jpg",
+		"link": "https://www.bing.com"
+	},
+	"detailbottom": [
+		{
+			"image": "https://10wallpaper.com/wallpaper/1366x768/1303/venice_italy_river_building-World_Travel_HD_photography_Wallpaper_1366x768.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"image": "https://10wallpaper.com/wallpaper/1366x768/1302/tianjin_China-World_scenery_HD_Photography_Wallpaper_1366x768.jpg",
+			"link": "https://www.bing.com"
+		},
+		{
+			"image": "https://10wallpaper.com/wallpaper/1366x768/2412/English_National_Ballet_The_Nutcracker_Bing_4K_1366x768.jpg",
+			"link": "https://www.bing.com"
+		}
+	]
+}

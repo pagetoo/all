@@ -1,0 +1,54 @@
+{
+	"code": 200,
+	"msg": "success",
+	"list": [
+		{
+			"typeid": 1,
+			"type": 0,
+			"name": "亚洲无码"
+		},
+		{
+			"typeid": 2,
+			"type": 0,
+			"name": "亚洲有码"
+		},
+		{
+			"typeid": 3,
+			"type": 0,
+			"name": "欧美情色"
+		},
+		{
+			"typeid": 5,
+			"type": 0,
+			"name": "动漫卡通"
+		},
+		{
+			"typeid": 6,
+			"type": 0,
+			"name": "国产自拍"
+		},
+		{
+			"typeid": 7,
+			"type": 0,
+			"name": "美女主播"
+		}
+	],
+	"categoryad": [
+		{
+			"id": 1,
+			"image": "https://10wallpaper.com/wallpaper/1366x768/2412/Anime_Girl_Serene_and_Peaceful_Morning_Sunshine_5K_1366x768.jpg",
+			"minimage": "https://10wallpaper.com/wallpaper/1366x768/1805/Madelaine_Petsch_2018_Actor_HD_Photo_1366x768.jpg",
+			"maximage": "https://10wallpaper.com/wallpaper/1366x768/1805/2018_Emma_Stone_Pretty_Actor_Photo_1366x768.jpg",
+			"link": "https://www.bing.com",
+			"name": "You don't throw away a whole life just cause he's banged up a little"
+		},
+		{
+			"id": 3,
+			"image": "https://10wallpaper.com/wallpaper/1366x768/1312/Wonder_Woman-Celebrity_Photo_HD_Wallpaper_1366x768.jpg",
+			"minimage": "https://10wallpaper.com/wallpaper/1366x768/1612/sabrina_carpenter_2016-Actress_Model_Photo_Wallpaper_1366x768.jpg",
+			"maximage": "https://10wallpaper.com/wallpaper/1366x768/2302/Orange_Clothing_Smile_Beauty_Model_5K_Photo_1366x768.jpg",
+			"link": "https://www.bing.com",
+			"name": "The awakening of conscience is the greatness of soul then we can create more and more"
+		}
+	]
+}
